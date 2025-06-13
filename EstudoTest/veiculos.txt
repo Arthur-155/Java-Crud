@@ -1,4 +1,0 @@
-'Carro;HYJ753;Fiat;Joy
-Moto;MON777;Ninja;Kawasaki
-Carro;LSD777;Ferrari;Puro sangue
-Carro;LEO999;Ferrari;Italia
