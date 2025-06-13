@@ -1,0 +1,10 @@
+'Carro;HYJ753;Fiat;Joy
+Moto;MON777;Ninja;Kawasaki
+Carro;LSD777;Ferrari;Puro sangue
+Carro;LEO999;Ferrari;Italia
+Carro;QWE789;Chevrolet;Corsa
+Moto;QWE789;Honda;CB1000
+Carro;FGH123;Fiat;Brasilia
+Moto;IKM154;Honda;Titan
+Carro;ASC0002;Citroen;C4
+Carro;ASD1234;Haval;Hb20
